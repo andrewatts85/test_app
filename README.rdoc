@@ -4,7 +4,7 @@ The Odin Project
 
 Web Development 101
 The Basics 
-Project: Installations
+  -Project: Installations
 
 The purpose of this repository is to demonstrate how to create and deploy a sample rails application with github, heroku, and nitrous.io via "The Odin Project". Using the development platform at nitrous.io was the best solution for me since Im developing on a windows machine at the time of this project.
 
