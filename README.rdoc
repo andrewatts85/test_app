@@ -1,28 +1,12 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The Odin Project
 
-Things you may want to cover:
+Web Development 101
+The Basics: Project: Installations
 
-* Ruby version
+The purpose of this repository is to demonstrate how to create and deploy a sample rails application with github, heroku, and nitrous.io via "The Odin Project". Using the development platform at nitrous.io was the best solution for me since Im developing on a windows machine at the time of this project.
 
-* System dependencies
+If you're following "The Odin Project" tracks like I am, just follow the <a href="http://installfest.railsbridge.org/installfest/">guide</a> step by step and you should be able to pull it off. 
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+If you're having trouble setting up a github repository for your "test_app" files like I did, just follow the instructions in this <a href="https://gist.github.com/JennDudley/2493288">gist</a>. Look for the heading in bold letters that says, "Create a new GitHub repository and set as master branch" and follow those steps.
